@@ -1,3 +1,3 @@
-# negriezequiel-s-not-calculadora
+# not-arteze-calculadora
 
 Calculadora jamás programada x arteze.
